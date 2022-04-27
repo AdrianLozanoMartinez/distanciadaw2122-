@@ -8,6 +8,7 @@
 	  * @internal
 	  * @author Adrián Lozano Martínez
 	  * @version abril 2022
+          * Modificación del fichero
 	*/
 function operaciones($num1, $num2, $operacion) {
   $resultado = 0;
